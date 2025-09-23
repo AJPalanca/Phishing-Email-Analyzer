@@ -1,0 +1,13 @@
+# Python / env
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.env.local
+secrets.json
+openai_api_key.txt
+
+# OS files
+.DS_Store
+Thumbs.db
