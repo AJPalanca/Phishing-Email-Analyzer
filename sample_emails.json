@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "label": "phishing",
+    "text": "Urgent: Your bank account will be closed unless you verify now. Click here: http://fake-bank.example/verify"
+  },
+  {
+    "id": 2,
+    "label": "safe",
+    "text": "Hi team, here is the agenda for tomorrow's meeting. Please review the attached doc. Thanks!"
+  }
+]
